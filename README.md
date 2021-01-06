@@ -3,7 +3,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/bekatom)
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=bekatom&count_private=true&show_icons=true&include_all_commits=true" alt="Shreyas Patil | Stats" />
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=bekatom&count_private=true&show_icons=true&include_all_commits=true&theme=calm" alt="Beka Tomashvili => Stats" />
 
 
 ## 🔗 Know more about me 
