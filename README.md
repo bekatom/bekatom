@@ -3,13 +3,18 @@
 
 ![Profile views](https://gpvc.arturio.dev/bekatom)
 
+[![Twitter: Beka Tom](https://img.shields.io/twitter/follow/beka_tom?style=social)](https://twitter.com/beka_tom)
+[![GitHub Beka Tom](https://img.shields.io/github/followers/bekatom?label=follow&style=social)](https://github.com/bekatom)
+[![Linkedin: Beka Tomashvili](https://img.shields.io/badge/-Tomashvili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekatom)](https://www.linkedin.com/in/bekatom/)
+
+
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=bekatom&count_private=true&show_icons=true&include_all_commits=true&theme=calm" alt="Beka Tomashvili => Stats" />
 
 
 ## 🔗 Know more about me 
 
-[![Mail](https://img.shields.io/badge/-Hi%20Beka-black?style=for-the-badge&logo=gmail)](mailto:beka@tomashvili.com)
+[![Mail](https://img.shields.io/badge/-Email%20me!-black?style=for-the-badge&logo=gmail)](mailto:beka@tomashvili.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/beka_tom)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/bekatom/)
 [![ProductHunt](https://img.shields.io/badge/-Producthunt-black?style=for-the-badge&logo=product-hunt)](https://www.instagram.com/beka.tom/)
