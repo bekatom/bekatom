@@ -6,7 +6,7 @@ Software Crafter, Architect & Enterpreneur.
 Helping to get projects up and running. 
 Co-Founder [@Kvalifika.com](https://kvalifika.com), [@Vobi.io](https://vobi.io), [@Invoice.ge](https://invoice.ge)
 
-Capable of programming in Javascript & Python
+Capable of programming in Javascript & Python.
 Familiar with applications lifecycle how to provide full software development process from scratch to delivery.
 
 [![Twitter: Beka Tom](https://img.shields.io/twitter/follow/beka_tom?style=social)](https://twitter.com/beka_tom)
