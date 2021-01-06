@@ -1,6 +1,13 @@
-### Hi there <img  src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="140"/> 
+### <img  src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="140"/> 
 
 ![Profile views](https://gpvc.arturio.dev/bekatom)
+
+Software Crafter, Architect & Enterpreneur
+Helping to get projects up and running. 
+Co-Founder [@Kvalifika.com](https://kvalifika.com) [@Vobi.io](https://vobi.io), [@Invoice.ge](https://invoice.ge)
+
+Capable of programming in Javascript and Python
+Familiar with applications lifecycle how to provide full software development process from scratch to delivery.
 
 [![Twitter: Beka Tom](https://img.shields.io/twitter/follow/beka_tom?style=social)](https://twitter.com/beka_tom)
 [![GitHub Beka Tom](https://img.shields.io/github/followers/bekatom?label=follow&style=social)](https://github.com/bekatom)
