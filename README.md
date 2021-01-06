@@ -4,7 +4,7 @@
 
 Software Crafter, Architect & Enterpreneur
 Helping to get projects up and running. 
-Co-Founder [@Kvalifika.com](https://kvalifika.com) [@Vobi.io](https://vobi.io), [@Invoice.ge](https://invoice.ge)
+Co-Founder [@Kvalifika.com](https://kvalifika.com), [@Vobi.io](https://vobi.io), [@Invoice.ge](https://invoice.ge)
 
 Capable of programming in Javascript and Python
 Familiar with applications lifecycle how to provide full software development process from scratch to delivery.
