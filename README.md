@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/bekatom)
 
-Software Crafter, Architect & Enterpreneur
+Software Crafter, Architect & Enterpreneur.
 Helping to get projects up and running. 
 Co-Founder [@Kvalifika.com](https://kvalifika.com), [@Vobi.io](https://vobi.io), [@Invoice.ge](https://invoice.ge)
 
