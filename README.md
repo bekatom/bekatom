@@ -2,11 +2,10 @@
 ![Profile views](https://gpvc.arturio.dev/bekatom)
 
 Software Crafter, Architect & Tech Founder.
-Passionate about the application lifecycle how to provide a full software development process. Microsoft and IBM certified technology specialist.  Worked with global startups helping them to get projects up and running.
+Passionate about high tech startups, how to build application lifecycle, how to provide a full software process. 
+Microsoft and IBM certified technology specialist.  Worked with global startups helping them to get projects up and running.
 Co-Founder [@Kvalifika.com](https://kvalifika.com), [@Vobi.io](https://vobi.io), [@Invoice.ge](https://invoice.ge)
 
-Capable of programming in Javascript & Python.
-Familiar with applications lifecycle how to provide full software development process from scratch to delivery.
 
 [![Twitter: Beka Tom](https://img.shields.io/twitter/follow/beka_tom?style=social)](https://twitter.com/beka_tom)
 [![GitHub Beka Tom](https://img.shields.io/github/followers/bekatom?label=follow&style=social)](https://github.com/bekatom)
