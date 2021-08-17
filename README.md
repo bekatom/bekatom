@@ -2,6 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/bekatom)
 
 Software Crafter, Architect & Tech Founder.
+
 Passionate about high tech startups, how to build application lifecycle, how to provide a full software process. 
 Microsoft and IBM certified technology specialist.  Worked with global startups helping them to get projects up and running.
 Co-Founder [@Kvalifika.com](https://kvalifika.com), [@Vobi.io](https://vobi.io), [@Invoice.ge](https://invoice.ge)
