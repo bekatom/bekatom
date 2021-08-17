@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/bekatom)
 
 Software Crafter, Architect & Tech Founder.
-Helping to get projects up and running. 
+Passionate about the application lifecycle how to provide a full software development process. Microsoft and IBM certified technology specialist.  Worked with global startups helping them to get projects up and running.
 Co-Founder [@Kvalifika.com](https://kvalifika.com), [@Vobi.io](https://vobi.io), [@Invoice.ge](https://invoice.ge)
 
 Capable of programming in Javascript & Python.
@@ -11,7 +11,6 @@ Familiar with applications lifecycle how to provide full software development pr
 [![Twitter: Beka Tom](https://img.shields.io/twitter/follow/beka_tom?style=social)](https://twitter.com/beka_tom)
 [![GitHub Beka Tom](https://img.shields.io/github/followers/bekatom?label=follow&style=social)](https://github.com/bekatom)
 [![Linkedin: Beka Tomashvili](https://img.shields.io/badge/-Tomashvili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekatomashvili)](https://www.linkedin.com/in/bekatomashvili/)
-
 
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=bekatom&count_private=true&show_icons=true&include_all_commits=true&theme=calm" alt="Beka Tomashvili => Stats" />
