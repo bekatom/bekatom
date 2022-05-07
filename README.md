@@ -3,7 +3,10 @@
 
 Software Crafter, Architect & Web3 explorer.
 
-Entrepreneurial and results-driven with over ten years of leading experience in founding numerous tech startups.  Leading professional in software development, data infrastructure, and executive leadership. Facilitator and builder of world-class technology management and product development teams, with a specialty in both startup and growth stages. Passionate about high-tech startups and how to provide full software development processes. Worked with global startups helping them to get projects up and running.
+Entrepreneurial and results-driven with over ten years of leading experience in founding numerous tech startups. 
+Passionate about high-tech startups and how to provide full software development processes. 
+
+Worked with global startups helping them to get projects up and running.
 Co-Founder [@Kvalifika.com](https://kvalifika.com), [@Vobi.io](https://vobi.io), [@Invoice.ge](https://invoice.ge)
 
 
