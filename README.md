@@ -23,8 +23,8 @@ Co-Founder [@Kvalifika.com](https://kvalifika.com), [@Vobi.io](https://vobi.io),
 [![Mail](https://img.shields.io/badge/-Email%20me!-black?style=for-the-badge&logo=gmail)](mailto:beka@tomashvili.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/beka_tom)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/bekatomashvili/)
-[![ProductHunt](https://img.shields.io/badge/-Producthunt-black?style=for-the-badge&logo=product-hunt)](https://www.instagram.com/beka.tom/)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/beka.tom/)
+[![ProductHunt](https://img.shields.io/badge/-Producthunt-black?style=for-the-badge&logo=product-hunt)](https://www.instagram.com/beka.tomash/)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/beka.tomash/)
 [![Reddit](https://img.shields.io/badge/-Reddit-black?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/bekatom)
 
 <!-- [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@beka) -->
