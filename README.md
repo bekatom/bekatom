@@ -10,8 +10,8 @@ Worked with global startups helping them to get projects up and running.
 Co-Founder [@Kvalifika.com](https://kvalifika.com), [@Vobi.io](https://vobi.io), [@Invoice.ge](https://invoice.ge)
 
 
-[![Twitter: Beka Tom](https://img.shields.io/twitter/follow/beka_tom?style=social)](https://twitter.com/beka_tom)
-[![GitHub Beka Tom](https://img.shields.io/github/followers/bekatom?label=follow&style=social)](https://github.com/bekatom)
+[![Twitter: Beka Tom](https://img.shields.io/twitter/follow/bekatomash?style=social)](https://twitter.com/bekatomash)
+[![GitHub Beka Tom](https://img.shields.io/github/followers/bekatomash?label=follow&style=social)](https://github.com/bekatomash)
 [![Linkedin: Beka Tomashvili](https://img.shields.io/badge/-Tomashvili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekatomashvili)](https://www.linkedin.com/in/bekatomashvili/)
 
 <p align="left"> 
@@ -21,11 +21,10 @@ Co-Founder [@Kvalifika.com](https://kvalifika.com), [@Vobi.io](https://vobi.io),
 ## 🔗 Know more about me 
 
 [![Mail](https://img.shields.io/badge/-Email%20me!-black?style=for-the-badge&logo=gmail)](mailto:beka@tomashvili.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/beka_tom)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/bekatomash)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/bekatomashvili/)
 [![ProductHunt](https://img.shields.io/badge/-Producthunt-black?style=for-the-badge&logo=product-hunt)](https://www.producthunt.com/@beka_tomashvili/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/beka.tomash/)
-[![Reddit](https://img.shields.io/badge/-Reddit-black?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/bekatom)
 
 <!-- [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@beka) -->
 <!-- [![Tomashvili.com](https://img.shields.io/badge/-Tomashvili-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tomashvili.com/) -->
