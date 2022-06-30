@@ -11,7 +11,7 @@ Co-Founder [@Kvalifika.com](https://kvalifika.com), [@Vobi.io](https://vobi.io),
 
 
 [![Twitter: Beka Tom](https://img.shields.io/twitter/follow/bekatomash?style=social)](https://twitter.com/bekatomash)
-[![GitHub Beka Tom](https://img.shields.io/github/followers/bekatomash?label=follow&style=social)](https://github.com/bekatomash)
+[![GitHub Beka Tom](https://img.shields.io/github/followers/bekatom?label=follow&style=social)](https://github.com/bekatom)
 [![Linkedin: Beka Tomashvili](https://img.shields.io/badge/-Tomashvili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekatomashvili)](https://www.linkedin.com/in/bekatomashvili/)
 
 <p align="left"> 
