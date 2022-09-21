@@ -7,7 +7,7 @@ Entrepreneurial and results-driven with over ten years of leading experience in 
 Passionate about high-tech startups and how to provide full software development processes.
 
 Worked with global startups helping them to get projects up and running.\
-Co-Founder [@CactusVerify.com](https://CactusVerify.com), [@Kvalifika.com](https://kvalifika.com), [@Vobi.io](https://vobi.io), [@Invoice.ge](https://invoice.ge)
+Co-Founder [@CactusVerify.com](https://CactusVerify.com), [@Kvalifika.com](https://kvalifika.com), [@Vobi.io](https://vobi.io)
 
 
 [![Twitter: Beka Tom](https://img.shields.io/twitter/follow/bekatomash?style=social)](https://twitter.com/bekatomash)
