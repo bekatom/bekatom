@@ -14,10 +14,10 @@ Co-Founder 🌵 [@CactusVerify.com](https://CactusVerify.com), [@Vobi.io](https:
 [![GitHub Beka Tom](https://img.shields.io/github/followers/bekatom?label=follow&style=social)](https://github.com/bekatom)
 [![Linkedin: Beka Tomashvili](https://img.shields.io/badge/-Tomashvili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekatomashvili)](https://www.linkedin.com/in/bekatomashvili/)
 
-<!--
+
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=bekatom&count_private=true&show_icons=true&include_all_commits=true&theme=calm" alt="Beka Tomashvili => Stats" />
--->
+
 
 ## 🔗 Know more about me 
 
