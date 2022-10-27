@@ -14,11 +14,11 @@ I give guidance and technical knowledge to decision-makers with small-to-medium-
 
 🧑🏻‍💻 I provide a variety of services:
 
-- 🏛 System architecture and design 
-- 🔭 Project workshop for roadmapping software development projects 
+- 🏛 System architecture and design
+- 🔭 Project workshop for roadmapping software development projects
 - ⚡  Filling significant gaps in technical leadership
 - 🌱 Professional and personal mentorship in teaching, training, and leveling developers
-
+- 𝌸 ALM (Application lifecycle management) consulting
 
 [![Twitter: Beka Tom](https://img.shields.io/twitter/follow/bekatomash?style=social)](https://twitter.com/bekatomash)
 [![GitHub Beka Tom](https://img.shields.io/github/followers/bekatom?label=follow&style=social)](https://github.com/bekatom)
