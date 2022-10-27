@@ -25,7 +25,7 @@ I give guidance and technical knowledge to decision-makers with small-to-medium-
 [![Linkedin: Beka Tomashvili](https://img.shields.io/badge/-Tomashvili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekatomashvili)](https://www.linkedin.com/in/bekatomashvili/)
 
 
-#### 🔗 Beyond that, you can reach me
+#### 🔗 Beyond that, you can reach me ⬇️
 
 [![Mail](https://img.shields.io/badge/-Email%20me!-black?style=for-the-badge&logo=gmail)](mailto:beka@tomashvili.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/bekatomash)
