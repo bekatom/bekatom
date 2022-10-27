@@ -13,7 +13,7 @@ Co-Founder 🌵 [@CactusVerify.com](https://CactusVerify.com), [@Vobi.io](https:
 I give guidance and technical knowledge to decision-makers with small-to-medium-sized technical teams who have critical technical demands.
 
 I provide a variety of services:
-- System architecture and design\
+- System architecture and design
 - Project workshop for road mapping software development projects\
 - Filling significant gaps in technical leadership\
 - Professional and personal mentorship in teaching, training, and leveling developers
