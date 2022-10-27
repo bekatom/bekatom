@@ -18,7 +18,7 @@ I give guidance and technical knowledge to decision-makers with small-to-medium-
 - 🔭 Project workshop for roadmapping software development projects
 - ⚡  Filling significant gaps in technical leadership
 - 🌱 Professional and personal mentorship in teaching, training, and leveling developers
-- 𝌸 Complete Application lifecycle management (AML) consulting
+- 𝌸 Complete application lifecycle management (AML) consulting
 
 [![Twitter: Beka Tom](https://img.shields.io/twitter/follow/bekatomash?style=social)](https://twitter.com/bekatomash)
 [![GitHub Beka Tom](https://img.shields.io/github/followers/bekatom?label=follow&style=social)](https://github.com/bekatom)
