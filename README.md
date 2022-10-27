@@ -10,9 +10,9 @@ Working with global startups helping them to get projects up and running.\
 Co-Founder 🌵 [@CactusVerify.com](https://CactusVerify.com), [@Vobi.io](https://vobi.io)
 
 
-I give guidance and technical knowledge to decision-makers with small-to-medium-sized technical teams who have critical technical demands.\
+I give guidance and technical knowledge to decision-makers with small-to-medium-sized technical teams who have critical technical demands.
 
-I provide a variety of services:\
+I provide a variety of services:
 - System architecture and design\
 - Project workshop for road mapping software development projects\
 - Filling significant gaps in technical leadership\
