@@ -3,8 +3,8 @@
 
 ## ⚡ Software Crafter, Architect, Web3 explorer.
 
-Entrepreneurial and results-driven with over ten years of leading experience in founding numerous tech startups.\
-Passionate about high-tech startups and how to provide full software development processes.
+Creator with over ten years of leading experience in making numerous tech products.\
+Passionate about high-tech products and how to provide full software development processes.
 
 Working with global startups helping them to get projects up and running.\
 Co-Founder 🌵 [@CactusVerify.com](https://CactusVerify.com), [@Vobi.io](https://vobi.io)
