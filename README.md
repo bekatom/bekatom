@@ -7,7 +7,7 @@ Creator with over ten years of experience in crafting numerous tech products.\
 Passionate about high-tech products and how to provide full software development processes.
 
 Working with global startups, helping them get projects up and running..\
-Co-Founder 🌵 [@CactusVerify.com](https://CactusVerify.com), [@Vobi.io](https://vobi.io)
+Co-Founder 🌵 [@CactusVerify.com](https://CactusVerify.com), [@Vobi](https://github.com/vobi-io)
 
 
 I give guidance and technical knowledge to decision-makers with small-to-medium-sized technical teams who have critical technical demands.
