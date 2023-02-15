@@ -27,6 +27,7 @@ I give guidance and technical knowledge to decision-makers with small-to-medium-
 
 #### 🔗 Beyond that, you can reach me ⬇️
 
+[![Mail](https://img.shields.io/badge/-Email%20me!-black?style=for-the-badge&logo=gmail)](https://cal.com/bekat)
 [![Mail](https://img.shields.io/badge/-Email%20me!-black?style=for-the-badge&logo=gmail)](mailto:beka@tomashvili.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/bekatomash)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/bekatomashvili/)
