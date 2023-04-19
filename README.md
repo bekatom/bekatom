@@ -1,7 +1,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/bekatom)
 
-### ⚡ TΞch Product Creator | Software Crafter | Architect |
+### ⚡ TΞch Product Creator | Software Crafter | Architect 
 
 With over a decade of experience in creating a multitude of tech products,\
 I am fueled by my passion for high-tech innovations and delivering comprehensive software development processes.\
