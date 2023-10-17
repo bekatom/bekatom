@@ -26,7 +26,7 @@ My mission is to provide guidance and technical insights to decision-makers in s
 
 [![Mail](https://img.shields.io/badge/-Schedule%20a%20call!-black?style=for-the-badge&logo=phone)](https://cal.com/bekat)
 [![Mail](https://img.shields.io/badge/-Email%20me!-black?style=for-the-badge&logo=gmail)](mailto:beka@tomashvili.com)
-[![X](https://img.shields.io/badge/--black?style=for-the-badge&logo=X)](https://twitter.com/bekatomash)
+[![X](https://img.shields.io/badge/-BΞKA-black?style=for-the-badge&logo=X)](https://twitter.com/bekatomash)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/bekatomashvili/)
 [![ProductHunt](https://img.shields.io/badge/-Producthunt-black?style=for-the-badge&logo=product-hunt)](https://www.producthunt.com/@beka_tomashvili/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/beka.tomash/)
