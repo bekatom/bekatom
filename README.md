@@ -1,5 +1,5 @@
 
-### ⚡ TΞch Product Creator | Software Crafter | Architect 
+### ⚡ Tech product creator · Curious Explorer · Architect
 
 
 Hey, I'm Beka 👋
