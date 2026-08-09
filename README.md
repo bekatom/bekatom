@@ -1,5 +1,5 @@
 
-### ⚡ Tech product creator · Curious Explorer · Architect
+### ⚡ Product Builder · Curious Explorer · Software Architect
 
 
 Hey, I'm Beka 👋
