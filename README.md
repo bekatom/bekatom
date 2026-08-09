@@ -1,20 +1,24 @@
 
 ### ⚡ TΞch Product Creator | Software Crafter | Architect 
 
-With over a decade of experience in creating a multitude of tech products,\
-I am fueled by my passion for high-tech innovations and delivering comprehensive software development processes.\
-I have not only helped them kick-start and manage their projects but also achieved three successful exits.
 
-My mission is to provide guidance and technical insights to decision-makers in small-to-medium-sized technical teams with pressing technical demands.
+Hey, I'm Beka 👋
 
-🧑🏻‍💻 Provide a variety of services:
+I've spent nearly 2 decades building software, launching products, leading engineering teams, and turning ideas into working technology.
+Today, I'm especially focused on what AI has changed about software development:
+**small teams can now build things that previously required entire engineering departments.**
+I work across product, architecture, engineering and AI — from the first idea to a production-ready system.
 
--   🏛 System architecture and design.
--   🔭 Project workshop for roadmapping software development projects
--   ⚡ Filling significant gaps in technical leadership
--   🌱 Professional and personal mentorship in teaching, training, and leveling developers
--   𝌸 Complete application lifecycle management (AML) consulting
+## 🚀 What I do
 
+- 🧠 AI-native product development
+- 🏗️ Software architecture & technical strategy
+- ⚡ Rapid MVP and SaaS development
+- 🤖 AI agents, automation and LLM integrations
+- 🔌 APIs, integrations and backend systems
+- ☁️ AWS / cloud infrastructure
+- 👨‍💻 Technical leadership & engineering mentorship
+- 🔍 Architecture and code reviews
 
 
 [![Twitter: Beka Tom](https://img.shields.io/twitter/follow/bekatomash?style=social)](https://twitter.com/bekatomash)
